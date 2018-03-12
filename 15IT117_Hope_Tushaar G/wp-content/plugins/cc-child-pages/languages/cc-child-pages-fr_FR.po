@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CC Child Pages\n"
+"POT-Creation-Date: 2016-12-23 10:32+0000\n"
+"PO-Revision-Date: 2016-12-23 10:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/ccchildpages.php:68
+msgid "Read more ..."
+msgstr "Plus ..."
+
+#: includes/ccchildpages.php:565
+msgid "Author: "
+msgstr "Auteur:"
+
+#: includes/ccchildpages.php:569
+msgid "Created: "
+msgstr "Créé:"
+
+#: includes/ccchildpages.php:573
+msgid "Modified: "
+msgstr "Modifié:"
+
+#: includes/ccchildpages.php:971
+msgid "CC Child Pages options"
+msgstr "CC Child Pages options"
+
+#: includes/ccchildpages.php:972
+msgid "Add button to the visual editor:"
+msgstr "Ajouter bouton pour l'éditeur visuel"
+
+#: includes/ccchildpages.php:973
+msgid "Custom CSS:"
+msgstr "CSS"
+
+#: includes/ccchildpages.php:975
+msgid "Update Options"
+msgstr "Options Mise à jour"
+
+#: includes/ccchildpages.php:1079
+msgid "Settings..."
+msgstr "Paramètres"
+
+#: includes/ccchildpages.php:1080
+msgid "Rate this plugin..."
+msgstr "Évaluez ce plugin..."
+
+#: includes/ccchildpages.php:1081
+msgid "Donate..."
+msgstr "Donner..."
+
+#: includes/ccchildpages.php:1081
+msgid "(Your donations keep this plugin free &amp; supported)"
+msgstr "(Vos dons garder ce plugin gratuit & amp; prise en charge)"
+
+#: includes/ccchildpages_widget.php:13
+msgid "CC Child Pages"
+msgstr ""
+
+#: includes/ccchildpages_widget.php:14
+msgid "Displays current child pages as a menu"
+msgstr "Affiche pages enfant actuels comme un menu"
+
+#: includes/ccchildpages_widget.php:105
+msgid "Title:"
+msgstr "Titre:"
+
+#: includes/ccchildpages_widget.php:109
+msgid "Show Page Title:"
+msgstr "Afficher le titre de la page:"
+
+#: includes/ccchildpages_widget.php:111
+msgid "Overrides the Title field, unless parent page has no parent."
+msgstr "Remplace le champ Titre, sauf si la page parent n'a pas de parent."
+
+#: includes/ccchildpages_widget.php:114
+msgid "Sort by:"
+msgstr "Trier par :"
+
+#: includes/ccchildpages_widget.php:116
+msgid "Page title"
+msgstr "Page titre"
+
+#: includes/ccchildpages_widget.php:117
+msgid "Page order"
+msgstr "Ordre des pages"
+
+#: includes/ccchildpages_widget.php:118
+msgid "Page ID"
+msgstr ""
+
+#: includes/ccchildpages_widget.php:119
+msgid "Date created"
+msgstr "Date de création"
+
+#: includes/ccchildpages_widget.php:120
+msgid "Date modified"
+msgstr "Date modifiée"
+
+#: includes/ccchildpages_widget.php:121
+msgid "Page author"
+msgstr "Auteur de la page"
+
+#: includes/ccchildpages_widget.php:122
+msgid "Comment count"
+msgstr "Nombre de commentaires"
+
+#: includes/ccchildpages_widget.php:123
+msgid "Random"
+msgstr "Aléatoire"
+
+#: includes/ccchildpages_widget.php:127
+msgid "Exclude:"
+msgstr "Exclure"
+
+#: includes/ccchildpages_widget.php:129
+msgid "Page IDs, separated by commas."
+msgstr "ID de page, séparés par des virgules."
+
+#: includes/ccchildpages_widget.php:132
+msgid "Show All Pages:"
+msgstr "Afficher toutes les pages:"
+
+#: includes/ccchildpages_widget.php:134
+msgid "Overrides the Parent field, shows all top-level pages."
+msgstr "Remplace le champ Parent , montre toutes les pages de haut niveau."
+
+#: includes/ccchildpages_widget.php:137
+msgid "Show Sibling Pages:"
+msgstr "Afficher les pages de la soeur:"
+
+#: includes/ccchildpages_widget.php:139
+msgid "Overrides the Parent and Show All field, shows sibling pages."
+msgstr ""
+"Remplace le champ Parent et Show All, affiche les pages de frères et sœurs."
+
+#: includes/ccchildpages_widget.php:155
+msgid "Parent:"
+msgstr ""
+
+#: includes/ccchildpages_widget.php:158
+msgid "Depth:"
+msgstr ""
+
+#: includes/ccchildpages_widget.php:162
+msgid ""
+"Pages and sub-pages displayed in hierarchical (indented) form (Default)."
+msgstr ""
+"Pages et sous- pages affichées dans hiérarchique (retrait) forme (par "
+"défaut)."
+
+#: includes/ccchildpages_widget.php:163
+msgid "Pages in sub-pages displayed in flat (no indent) form."
+msgstr ""
+"Pages dans la sous- pages affichées dans l'appartement (pas de retrait) "
+"forme."
+
+#: includes/ccchildpages_widget.php:164
+msgid "Show only top level Pages"
+msgstr "Afficher uniquement les pages de haut niveau"
+
+#: includes/ccchildpages_widget.php:165
+msgid ""
+"Value of 2 (or greater) specifies the depth (or level) to descend in "
+"displaying Pages."
+msgstr ""
+"Valeur de 2 (ou plus) spécifie la profondeur (ou niveau) à descendre dans "
+"l'affichage des pages."
+
+#~ msgid "New title"
+#~ msgstr "Nouveau titre"
